@@ -1,0 +1,18 @@
+Thinking of making something where the player can pick an element to sort of define their play style. Some elements have heightened damage on others and sometimes they might not work on other elements at all.
+
+Nouns:
+- Role playing Game
+- Character
+- Items
+- Weapons
+- Currency
+- Elements
+
+Verbs:
+- Fight
+- Die
+- Upgrade
+- Buy
+- Sell
+
+Hierarchy:
