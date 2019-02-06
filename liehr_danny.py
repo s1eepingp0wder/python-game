@@ -55,13 +55,13 @@ def ThirdCutScene():
     if third_act.lower() == "short":
       deebee_hurt = True
       print(textwrap.fill(f"He panics as {player_name} attacks. They snatch it, and it seems like there's a powerful, freezing cold aura from it. By the time {player_name} has taken note, he's run off into the dark. But there's a blueish glow around him, causing him to screech in pain as he ran.", 70))
-      time.sleep(4)
+      time.sleep(8)
       clear_screen()
       break
     elif third_act.lower() == "tall":
       deebee_hurt = False
       print(textwrap.fill(f"He's pretty powerful! While trying to overpower you, his shorter minion tries to attack as well. The taller one stops paying heed to you in order to smack the smaller one's hand down in annoyance.\n\n\"I didn't tell you that you could do that!\" He snapped."))
-      time.sleep(6)
+      time.sleep(8)
       clear_screen()
       break
 
